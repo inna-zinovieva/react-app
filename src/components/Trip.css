@@ -1,0 +1,56 @@
+.trip-body{
+    width: 1100px;
+    margin: 0 auto;
+    padding: 7px 0;
+    background-color: #dcefe9;
+    box-shadow: 2px 2px 1px #8e8686;
+}
+.trip-title{
+    padding: 10px 0;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    
+}
+span{
+    font-weight: 600;
+}
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.trip-text{
+    width: 700px;
+    padding: 10px 30px;
+    font-size: 20px;
+    font-style: italic;
+}
+.trip-distance, .trip-averageSpeed{
+    font-size: 22px;
+    padding: 2px 20px;
+}
+.trip-img{
+    width: 240px;
+    height: 150px;
+    background-size: cover;
+    margin: 0 auto;
+}
+.trip1-img{
+    background-image: url(../img/trip1.jpg);
+}
+.trip2-img{
+    background-image: url(../img/trip2.jpg);
+}
+.trip3-img{
+    background-image: url(../img/trip3.jpg);
+}
+.trip4-img{
+    background-image: url(../img/trip4.jpg);
+}
+.trip5-img{
+    background-image: url(../img/trip5.jpg);
+}
+.trip6-img{
+    background-image: url(../img/trip6.jpg);
+}
